@@ -9,14 +9,14 @@ using namespace std;
     Where |s| = length of s
     e.g: if s="abc" ~ |s|=3
     The subsets will be :: (0 means we will not take it and 1 means gonna take it)
-        000     >>>     ""
-        001     >>>     "c"
-        010     >>>     "b"
-        011     >>>     "bc"
-        100     >>>     "a"
-        101     >>>     "ac"
-        110     >>>     "ab"
-        111     >>>     "abc"
+    0 >>>    000     >>>     ""
+    1 >>>    001     >>>     "c"
+    2 >>>    010     >>>     "b"
+    3 >>>    011     >>>     "bc"
+    4 >>>    100     >>>     "a"
+    5 >>>    101     >>>     "ac"
+    6 >>>    110     >>>     "ab"
+    7 >>>    111     >>>     "abc"
     
     So Here we will use recursion to genarate the binary sequence for a given |s|
     Here we can see that we take an element once and then next time we dont take that
@@ -72,4 +72,3 @@ int main()
         
     return 0;
 }
-//fixed<<setprecision(1)
