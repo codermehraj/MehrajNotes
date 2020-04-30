@@ -15,7 +15,9 @@ using namespace std;
         Maybe time is hard !!!
 */
 int nCr(int n, int r){
+    // As nCn = 1
     if(n==r) return 1;
+    // As nC1 = n
     if(r==1) return n;
     return nCr(n-1,r-1)+nCr(n-1,r); 
 }
