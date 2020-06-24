@@ -1,25 +1,10 @@
-# Standard Template Library in C++
+# Welcome to MehrajNotes
 
-STL is a very powefull tool for **competitive programming**. It saves a lot of time and makes your code easier to read.
+## In this section I will add my notes on various topic of coding. 
 
-
-## I will talk about these in this note :
-- String
-- Pair
-- Vector
-- Stack
-- Queue
-  * Deque
-- Priority Queue
-- Set
-  * Multiset
-  * Unordered Set
-  * Unordered Multiset
-- Map
-  * Multimap
-  * Unordered Map
-  * Unordered Multimap
-- List
-
-Also some useful features like `next_permutaion() , stringstream` etc
+Click the following links to see my notes on that topic
+- [Sandard Template Library ~ STL](https://codermehraj.github.io/MehrajNotes/STL/home)
+- Graph Theory
+- Dynamic Programming
+- BitSet
 
