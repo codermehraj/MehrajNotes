@@ -31,4 +31,4 @@ You can print a string using **` cout << MyString << endl ; `**
 |:--------------------:|:-------------------------------------:|
 |    MyString.size()   |     Returns The size of the string    |
 |    str1.swap(str2)   |   Swaps the value of str1 and str2    |
-| Mystring.insert(x,s) | Swaps s in the xth index of MyString  |
+| MyString.insert(x,s) | Swaps s in the xth index of MyString  |
