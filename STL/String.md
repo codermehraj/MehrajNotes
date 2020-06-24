@@ -9,7 +9,7 @@ It is very easy to declare a string. You can create a string variable nammed as 
 You can declare several string togather in a line. You can also _**initialize**_ a string using **` string MyString = "Hello World!" `**. 
 You can also do that later in your code.
 
-You can take a string from the user using **` cin >> MySting ; `** which only takes the sting _**up to a space**_
+You can take a string from the user using **` cin >> MySting ; `** which only takes the string _**up to a space**_
 
 If you want to get _**a full line including spaces**_ use this instead  **` getline( cin , MyString ) ; `**
 
