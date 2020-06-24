@@ -5,7 +5,7 @@ STL is a very powefull tool for **competitive programming**. It saves a lot of t
 
 ## I will talk about these in this note :
 `Click in the links to see the notes on that topic`
-- String
+- [String](https://codermehraj.github.io/MehrajNotes/STL/String)
 - Pair
 - Vector
 - Stack
