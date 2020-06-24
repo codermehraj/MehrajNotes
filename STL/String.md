@@ -1,7 +1,7 @@
 
 # String
 
-To use string first of all you have to include ` <string> `
+To use string first of all you have to add this header **` #include <string> `**
 
 ## Declaring and Initializing a String 
 It is very easy to declare a string. You can create a string variable nammed as MyString by typing **` string MyString ; `**
