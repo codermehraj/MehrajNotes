@@ -3,7 +3,7 @@
 STL is a very powefull tool for **competitive programming**. It saves a lot of time and makes your code easier to read.
 
 
-##I will talk about these in this note :
+## I will talk about these in this note :
 - String
 - Pair
 - Vector
