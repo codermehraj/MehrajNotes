@@ -7,4 +7,8 @@ Click the following links to see my notes on that topic
 - Graph Theory
 - Dynamic Programming
 - BitSet
+- Greedy
+- Two Pointer
+- Geometry
+- Combinatorics
 
