@@ -2,7 +2,7 @@
 	UVa 11504: dominos
 
 	Connent all the reletions of the falling domins 
-    topologically sort and calcualte the optimal order of forcing dominos to fall
+    	topologically sort and calcualte the optimal order of forcing dominos to fall
 	after topological sort visit as the sorted order and calcualte the number of components in the graph
 
 */
